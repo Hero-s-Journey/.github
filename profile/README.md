@@ -7,4 +7,18 @@
 * 🏋️ Hero's Journey is revolutionizing fitness by gamifying the process through technological advancements. We believe we have developed a truly unique product with no direct analogs, positioning Hero's Journey as a market disruptor.
 * 🌎 Our HQ is based in Almaty, Kazakhstan.
 
-## What we do
+## Our Dev Team
+- [Anuar Zhaxylykbayev](https://github.com/zhaxylykbayev) - CTO
+- [Daniyar Aubekerov](https://github.com/daniyardake) - Engineering Lead
+- [Adil Utepbergenov](https://github.com/zhaxylykbayev) - Frontend Team Lead
+- [Yersultan Kalybayev](https://github.com/Yersultans) - Backend Team Lead
+- [Almas Bisserik]() - Data Team Lead
+
+## We Hire Engineers
+Current openings:
+* Data Engineer
+* Frontend Engineer
+* Full-Stack Engineer
+* QA Engineer
+
+
