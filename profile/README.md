@@ -12,7 +12,7 @@
 - [Daniyar Aubekerov](https://github.com/daniyardake) - Engineering Lead
 
 
-- [Almas Bisserik](https://github.com/Almas007) - Data Team Lead
+- [Almas Bisserik](https://github.com/Almas007) - R&D Team Lead
 
 - [Yersultan Kalybayev](https://github.com/Yersultans) - Backend Team Lead
 - [Nurdaulet Nurahmet](https://github.com/Almas007) - Backend Engineer
