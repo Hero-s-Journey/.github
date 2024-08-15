@@ -18,16 +18,16 @@
     - [Almas Bisserik](https://github.com/Almas007) - R&D Team Lead
       - [Nurali](https://github.com/Almas007) - Data Analyst
       - [Azamat](https://github.com/Almas007) - Data Engineer
-  - [Yersultan Kalybayev](https://github.com/Yersultans) - Infra Team Lead
-    - [Dias Mukhametrakhim](https://github.com/Almas007) - Backend Engineer
-    - [Dias Utepbergenov](https://github.com/Almas007) - Frontend Engineer
-  - [Adil Utepbergenov](https://github.com/Adil-U) - In-Studio Team Lead
-    - [Nurdaulet Nurahmet](https://github.com/Almas007) - Backend Engineer
-    - [Madiyar Ali](https://github.com/Almas007) - Frontend Engineer
-    - **Mobile App Team**
-      - [Zhanat Brumkul](https://github.com/Almas007) - Backend Engineer
-      - [Ayazhan Utemurat](https://github.com/Almas007) - Frontend Engineer
-      - [Dulat Shaikhat](https://github.com/Almas007) - Frontend Engineer
+    - [Yersultan Kalybayev](https://github.com/Yersultans) - Infra Team Lead
+      - [Dias Mukhametrakhim](https://github.com/Almas007) - Backend Engineer
+      - [Dias Utepbergenov](https://github.com/Almas007) - Frontend Engineer
+    - [Adil Utepbergenov](https://github.com/Adil-U) - In-Studio Team Lead
+      - [Nurdaulet Nurahmet](https://github.com/Almas007) - Backend Engineer
+      - [Madiyar Ali](https://github.com/Almas007) - Frontend Engineer
+      - **Mobile App Team**
+        - [Zhanat Brumkul](https://github.com/Almas007) - Backend Engineer
+        - [Ayazhan Utemurat](https://github.com/Almas007) - Frontend Engineer
+        - [Dulat Shaikhat](https://github.com/Almas007) - Frontend Engineer
 
 ## We Hire Engineers
 
