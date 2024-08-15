@@ -21,13 +21,16 @@
     - [Yersultan Kalybayev](https://github.com/Yersultans) - Infra Team Lead
       - [Dias Mukhametrakhim](https://github.com/Almas007) - Backend Engineer
       - [Dias Utepbergenov](https://github.com/Almas007) - Frontend Engineer
-    - [Adil Utepbergenov](https://github.com/Adil-U) - In-Studio Team Lead
+    - [Adil Utepbergenov](https://github.com/Adil-U) - In-Studio Experience Team Lead
       - [Nurdaulet Nurahmet](https://github.com/Almas007) - Backend Engineer
       - [Madiyar Ali](https://github.com/Almas007) - Frontend Engineer
       - **Mobile App Team**
         - [Zhanat Brumkul](https://github.com/Almas007) - Backend Engineer
         - [Ayazhan Utemurat](https://github.com/Almas007) - Frontend Engineer
         - [Dulat Shaikhat](https://github.com/Almas007) - Frontend Engineer
+  - Temirlan Bassov - CPO
+    - Ilyas - Product Manager
+    - Rustem - Product Manager  
 
 ## We Hire Engineers
 
