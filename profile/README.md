@@ -28,15 +28,14 @@
         - [Zhanat Brumkul](https://github.com/Almas007) - Backend Engineer
         - [Ayazhan Utemurat](https://github.com/Almas007) - Frontend Engineer
         - [Dulat Shaikhat](https://github.com/Almas007) - Frontend Engineer
-  - Temirlan Bassov - CPO
+  - Temirlan Barissov - CPO
     - Ilyas - Product Manager
     - Rustem - Product Manager  
 
 ## We Hire Engineers
 
 Current openings:
-
-- Data Engineer
-- Frontend Engineer
-- Full-Stack Engineer
+- Software Engineer (Node.JS, React, React Native)
 - QA Engineer
+
+To apply: daniyar@herosjourney.kz
