@@ -14,7 +14,7 @@
 - [Anuar Zhaxylykbayev](https://github.com/zhaxylykbayev) - CTO
 
   - [Daniyar Aubekerov](https://github.com/daniyardake) - Engineering Lead
-    - [Adil Alkozha](https://github.com/Almas007) - Backend Engineer
+    - [Adil Alkozha](https://github.com/Almas007) - Full-Stack Engineer
     - [Almas Bisserik](https://github.com/Almas007) - R&D Team Lead
       - [Nurali](https://github.com/Almas007) - Data Analyst
       - [Azamat](https://github.com/Almas007) - Data Engineer
@@ -25,9 +25,10 @@
       - [Nurdaulet Nurahmet](https://github.com/Almas007) - Backend Engineer
       - [Madiyar Ali](https://github.com/Almas007) - Frontend Engineer
       - **Mobile App Team**
-        - [Zhanat Brumkul](https://github.com/Almas007) - Backend Engineer
-        - [Ayazhan Utemurat](https://github.com/Almas007) - Frontend Engineer
-        - [Dulat Shaikhat](https://github.com/Almas007) - Frontend Engineer
+        - [Zhanat Brumkul](https://github.com/zhanat1999) - Backend Engineer
+        - [Ayazhan Utemurat](https://github.com/ayazhanutemurat) - Frontend Engineer
+        - [Dulat Shaikhat](https://github.com/Dulatinho) - Frontend Engineer
+        - [Vladislav Rybalko](https://github.com/rywell) - Full-Stack Engineer
   - Temirlan Barissov - CPO
     - Ilyas - Product Manager
     - Rustem - Product Manager  
