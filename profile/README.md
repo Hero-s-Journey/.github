@@ -40,3 +40,33 @@ Current openings:
 - QA Engineer
 
 To apply: daniyar@herosjourney.kz
+
+# On-Call Schedule
+
+| Week                     | Primary                  | Secondary                |
+|---------------------------|--------------------------|--------------------------|
+| 23.09.2024 - 29.09.2024   | Fucorai                  | danikhandro              |
+| 30.09.2024 - 06.10.2024   | adpovver                 | themaincharacterintheworld|
+| 07.10.2024 - 13.10.2024   | almas_bisserik           | aya11l                   |
+| 14.10.2024 - 20.10.2024   | jolly_ro47               | dias_lobby               |
+| 21.10.2024 - 27.10.2024   | Diivss                   | Dulatcv                  |
+| 28.10.2024 - 03.11.2024   | YersultanK               | Zhanat_99                |
+| 04.11.2024 - 10.11.2024   | he11ow0r1d               | rywelll                  |
+| 11.11.2024 - 17.11.2024   | o0xnurda                 | adpovver                 |
+| 18.11.2024 - 24.11.2024   | danikhandro              | Fucorai                  |
+| 25.11.2024 - 01.12.2024   | themaincharacterintheworld| almas_bisserik           |
+| 02.12.2024 - 08.12.2024   | aya11l                   | jolly_ro47               |
+| 09.12.2024 - 15.12.2024   | dias_lobby               | Diivss                   |
+| 16.12.2024 - 22.12.2024   | Dulatcv                  | YersultanK               |
+| 23.12.2024 - 29.12.2024   | Zhanat_99                | he11ow0r1d               |
+| 30.12.2024 - 05.01.2025   | rywelll                  | o0xnurda                 |
+| 06.01.2025 - 12.01.2025   | Fucorai                  | danikhandro              |
+| 13.01.2025 - 19.01.2025   | adpovver                 | themaincharacterintheworld|
+| 20.01.2025 - 26.01.2025   | almas_bisserik           | aya11l                   |
+| 27.01.2025 - 02.02.2025   | jolly_ro47               | dias_lobby               |
+| 03.02.2025 - 09.02.2025   | Diivss                   | Dulatcv                  |
+| 10.02.2025 - 16.02.2025   | YersultanK               | Zhanat_99                |
+| 17.02.2025 - 23.02.2025   | he11ow0r1d               | rywelll                  |
+
+
+
