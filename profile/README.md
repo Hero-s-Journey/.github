@@ -52,9 +52,9 @@ To apply: daniyar@herosjourney.kz
 | 21.10.2024 - 27.10.2024   | Diivss                   | Dulatcv                  |
 | 28.10.2024 - 03.11.2024   | YersultanK               | Zhanat_99                |
 | 04.11.2024 - 10.11.2024   | he11ow0r1d               | rywelll                  |
-| 11.11.2024 - 17.11.2024   | o0xnurda                 | adpovver                 |
+| 11.11.2024 - 17.11.2024   | themaincharacterintheworld                 | adpovver                 |
 | 18.11.2024 - 24.11.2024   | danikhandro              | Fucorai                  |
-| 25.11.2024 - 01.12.2024   | themaincharacterintheworld| almas_bisserik           |
+| 25.11.2024 - 01.12.2024   | nurda                    | almas_bisserik           |
 | 02.12.2024 - 08.12.2024   | aya11l                   | jolly_ro47               |
 | 09.12.2024 - 15.12.2024   | dias_lobby               | Diivss                   |
 | 16.12.2024 - 22.12.2024   | Dulatcv                  | YersultanK               |
